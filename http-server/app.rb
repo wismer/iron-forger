@@ -13,5 +13,4 @@ route2 = ->(captures) {
 router = Router.new
 router.add_route(/^\/bleepbloop/, route1)
 router.add_route(/^\/greet\/(?<person>[^\/]*)\/?/, route2)
-router.add_route(//)
 Server.new({"port" => 9393, "router" => router}).start
