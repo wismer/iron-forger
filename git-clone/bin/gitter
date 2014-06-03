@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require 'gitter'
+require 'digest/sha1'
+require 'pry'
+Gitter::Done.new

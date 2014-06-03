@@ -1,0 +1,13 @@
+1:
+  - file: bin/gitter
+    time: 2014-06-03 16:01:42 -0400
+    hash: b63a5ee65ba1abe9762682550f6995fe78772cd6
+  - file: lib/gitter/commands.rb
+    time: 2014-06-03 16:01:42 -0400
+    hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+  - file: lib/gitter/recorder.rb
+    time: 2014-06-03 16:01:42 -0400
+    hash: c13f50e123d65e571efbb6ae1c90b1ac32a1f5f9
+  - file: lib/gitter.rb
+    time: 2014-06-03 16:01:42 -0400
+    hash: c4597f1de909b116247e25045867cb9c4124a637
